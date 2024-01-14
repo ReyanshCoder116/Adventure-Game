@@ -1,3 +1,3 @@
 # Needed Recourses:
 # PYAGME
-pip install pygame -  Reyansh
+pip install pygame
